@@ -1,0 +1,7 @@
+﻿  예제2-4.c
+C:\Users\남가희\Desktop\c_basic\2-4\예제2-4.c(7,9): warning C4477: 'printf' : 서식 문자열 '%.10lf'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\남가희\Desktop\c_basic\2-4\예제2-4.c(7,23): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+      C:\Users\남가희\Desktop\c_basic\2-4\예제2-4.c(7,23):
+      자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+  
+  2-4.vcxproj -> C:\Users\남가희\Desktop\c_basic\2-4\x64\Debug\2-4.exe
