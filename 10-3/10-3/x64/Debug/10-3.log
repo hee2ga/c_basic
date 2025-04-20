@@ -1,0 +1,4 @@
+﻿  예제10-3.c
+C:\Users\남가희\Desktop\c_basic\10-3\예제10-3.c(11,10): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\남가희\Desktop\c_basic\10-3\예제10-3.c(11,10): warning C4313: 'printf': 서식 문자열의 '%d'이(가) int *' 형식의 인수 1과(와) 충돌합니다.
+  10-3.vcxproj -> C:\Users\남가희\Desktop\c_basic\10-3\x64\Debug\10-3.exe
