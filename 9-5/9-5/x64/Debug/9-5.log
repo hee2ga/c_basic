@@ -1,0 +1,38 @@
+﻿  예제9-5.c
+C:\Users\남가희\Desktop\c_basic\9-5\예제9-5.c(13,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\남가희\Desktop\c_basic\9-5\예제9-5.c(13,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\남가희\Desktop\c_basic\9-5\예제9-5.c(14,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\남가희\Desktop\c_basic\9-5\예제9-5.c(14,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\남가희\Desktop\c_basic\9-5\예제9-5.c(15,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\남가희\Desktop\c_basic\9-5\예제9-5.c(15,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\남가희\Desktop\c_basic\9-5\예제9-5.c(17,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\남가희\Desktop\c_basic\9-5\예제9-5.c(17,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\남가희\Desktop\c_basic\9-5\예제9-5.c(18,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\남가희\Desktop\c_basic\9-5\예제9-5.c(18,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\남가희\Desktop\c_basic\9-5\예제9-5.c(19,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\남가희\Desktop\c_basic\9-5\예제9-5.c(19,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\남가희\Desktop\c_basic\9-5\예제9-5.c(21,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\남가희\Desktop\c_basic\9-5\예제9-5.c(21,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\남가희\Desktop\c_basic\9-5\예제9-5.c(22,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\남가희\Desktop\c_basic\9-5\예제9-5.c(22,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\남가희\Desktop\c_basic\9-5\예제9-5.c(23,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\남가희\Desktop\c_basic\9-5\예제9-5.c(23,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+  9-5.vcxproj -> C:\Users\남가희\Desktop\c_basic\9-5\x64\Debug\9-5.exe
