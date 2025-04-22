@@ -1,0 +1,3 @@
+﻿  ex3_381p.c
+C:\Users\남가희\Desktop\c_basic\ex3_381p\ex3_381p.c(14,8): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ex3_381p.vcxproj -> C:\Users\남가희\Desktop\c_basic\ex3_381p\x64\Debug\ex3_381p.exe
