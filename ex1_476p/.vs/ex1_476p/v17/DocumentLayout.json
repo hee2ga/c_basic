@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\uB0A8\uAC00\uD76C\\Desktop\\c_basic\\ex1_476p\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0319951-7CCE-4CD3-BA66-E8A85F50A4BE}|ex1_476p.vcxproj|C:\\Users\\\uB0A8\uAC00\uD76C\\Desktop\\c_basic\\ex1_476p\\ex1_476p.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0319951-7CCE-4CD3-BA66-E8A85F50A4BE}|ex1_476p.vcxproj|solutionrelative:ex1_476p.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ex1_476p.c",
+              "DocumentMoniker": "C:\\Users\\\uB0A8\uAC00\uD76C\\Desktop\\c_basic\\ex1_476p\\ex1_476p.c",
+              "RelativeDocumentMoniker": "ex1_476p.c",
+              "ToolTip": "C:\\Users\\\uB0A8\uAC00\uD76C\\Desktop\\c_basic\\ex1_476p\\ex1_476p.c",
+              "RelativeToolTip": "ex1_476p.c",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwCUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-25T06:57:53.099Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
